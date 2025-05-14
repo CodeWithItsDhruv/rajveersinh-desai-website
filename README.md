@@ -2,7 +2,7 @@
 
 A modern, responsive **portfolio website** showcasing work as a **Mobile App Developer** and **UI/UX Designer**. Designed with performance, interactivity, and aesthetics in mind, this portfolio is a great starting point for developers looking to create a personal brand online.
 
-![Portfolio Preview](assets/admin.png)
+![Portfolio Preview](assets/Preview/Preview.png)
 
 ---
 
